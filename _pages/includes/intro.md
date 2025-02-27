@@ -1,1 +1,2 @@
-I'm currently working as a postdoctoral fellow at the Institute of Physics at Johannes Gutenberg University Mainz.
+I am currently a postdoctoral fellow at the Institute of Physics at Johannes Gutenberg University Mainz.
+My research focuses on developing and implementing computational tools to study soft-matter systems, including block copolymer self-assembly, DNA and polymer dynamics in porous media or under constraints, active matter and non-equilibrium processes, electrophoretic separation techniques, and micro- and nanofluidic devices.
