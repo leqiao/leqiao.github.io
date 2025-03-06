@@ -1,4 +1,4 @@
-# 🔥 News
+# 🔬 Research
 <!-- *2024.04*: 🎉 A paper is published in Macromolecules -->
 
 
