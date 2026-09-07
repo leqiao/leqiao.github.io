@@ -1,2 +1,7 @@
-I am currently a postdoctoral fellow at the Institute of Physics at Johannes Gutenberg University Mainz.
-My research focuses on developing and implementing computational tools to study soft-matter systems, including block copolymer self-assembly, DNA and polymer dynamics in porous media or under constraints, active matter and non-equilibrium processes, electrophoretic separation techniques, and micro- and nanofluidic devices.
+I am a postdoctoral researcher at the Institute of Physics, Johannes Gutenberg University Mainz, working with Friederike Schmid on the statistical physics of block copolymer self-assembly and biomolecular condensates. Broadly, I am interested in how structure emerges in soft and living matter, both when it self-assembles at equilibrium and when it is driven away from it.
+
+My approach combines field-theoretic methods (self-consistent field theory, hybrid particle/Ginzburg–Landau models) with particle-based simulations (Langevin dynamics, lattice Boltzmann hydrodynamics, kinetic Monte Carlo).
+
+My current work centers on three questions: what stabilizes ordered block copolymer phases and the topological defects within them; how passive/active dopant colloidal particles steer the pathway of polymer vesicle formation; and what sets the size, shape, and organization of membraneless compartments in RNA–protein phase separation, where active transport and other non-equilibrium processes can select length scales that thermodynamics alone cannot.
+
+Before Mainz, I completed my PhD in Physics with Gary W. Slater at the University of Ottawa, working on single-molecule transport through nanopores: how molecules are captured, why orientation and hydrodynamics matter for stiff polymers, and how pulsed fields combined with nanofluidic ratchets can separate DNA by length.
