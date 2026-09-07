@@ -45,6 +45,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2022</div><img src='images/rod_trans.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Capture and Translocation of a Rod-Like Molecule by a Nanopore: Orientation, Charge Distribution and Hydrodynamics](https://doi.org/10.1039/D2CP00313A) \\
+**Le Qiao**, Gary W. Slater. (2022). <i>Phys. Chem. Chem. Phys.</i>. 24, 6444-6452.
+- Using hybrid Langevin dynamics and lattice Boltzmann simulations with P³M electrostatics, we study how the charge distribution along a rod-like molecule shapes its capture and translocation through a nanopore. Rod orientation evolves asymmetrically between capture and escape despite symmetric field lines, and rods launched near the wall are captured faster because they align with the local field — while the orientational capture radius we proposed earlier remains valid once electrohydrodynamic interactions are included.
+
+[![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1039/D2CP00313A) [![](https://img.shields.io/badge/arXiv-2106.02675-b31b1b.svg)](https://arxiv.org/abs/2106.02675)
+</div>
+</div>
+
 ## Full Publication List
 - **Le Qiao**, Peter Gispert, Lukas S. Stelzl, Friederike Schmid, Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates, *Phys. Rev. Research*, accepted (2026). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1103/wk2j-3bz9) [![](https://img.shields.io/badge/arXiv-2604.08316-b31b1b.svg)](https://arxiv.org/abs/2604.08316)
 
