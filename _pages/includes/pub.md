@@ -21,7 +21,7 @@
 </div>
 </div>
 
-## Full Pubilication List
+## Full Publication List
 - **Le Qiao**, Daniel A. Vega, Friederike Schmid, Stability and Elasticity of Ultrathin Sphere-Patterned Block Copolymer Films, *Macromolecules*, **57** (9), 4629-4634 (2024). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1021/acs.macromol.4c00460)
 
 - **Le Qiao**, Marios Giannakou, Friederike Schmid, An Efficient and Accurate SCF Algorithm for Block Copolymer Films and Brushes Using Adaptive Discretizations, *Polymers*, **16**, 1228 (2024). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://www.mdpi.com/2073-4360/16/9/1228)

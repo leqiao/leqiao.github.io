@@ -2,7 +2,7 @@
 # 📖 Educations
 - *2016.09 - 2021.06*, PhD, Physics, University of Ottawa, Ottawa, Canada.
 - *2015.01 - 2016.08*, MPhil, Biological Physics, The University of Manchester, Manchester, UK.
-- *2010.09 - 2020.06*, BSc, Material Physics, China University of Petroleum (East China), Qingdao, China.
+- *2010.09 - 2014.06*, BSc, Material Physics, China University of Petroleum (East China), Qingdao, China.
 
 # 💬 Selected Talks
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
