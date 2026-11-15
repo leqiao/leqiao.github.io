@@ -1,9 +1,6 @@
 # 🔬 Research
-<!-- *2024.04*: 🎉 A paper is published in Macromolecules -->
 
-
-<!--<!-- - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK! -->
+- **Nonequilibrium physics of biomolecular condensates.** How active transport arrests coarsening and selects condensate size, and how kinase–phosphatase cycles drive self-sustained condensate oscillations.
+- **Polymer field theory and self-assembly.** Self-consistent field theory and particle–field models for block copolymer films, topological defects and vesicles; electrostatic field theory for complex coacervates, in collaboration with Zhen-Gang Wang (Caltech).
+- **Active matter and motor-driven networks.** Strand braiding and topology in contracting molecular-motor gels, vesicles coupled to active Brownian particles, and topological defects in active particle systems.
+- **Polymer transport and topology in nanopores.** Theory of voltage-driven capture, pulsed-field ratchets for molecular filtering, and the translocation of knotted and circular polymers.

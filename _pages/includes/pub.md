@@ -4,11 +4,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phys. Rev. Research 2026</div><img src='images/llps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates](https://arxiv.org/abs/2604.08316) \\
-**Le Qiao**, Peter Gispert, Lukas S. Stelzl, Friederike Schmid. (2026). <i>Phys. Rev. Research</i>, accepted.
+[Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates](https://doi.org/10.1103/wk2j-3bz9) \\
+**Le Qiao**, Peter Gispert, Lukas S. Stelzl, Friederike Schmid. (2026). <i>Phys. Rev. Research</i>. 8, 033345.
 - Using a minimal diffusion-transport model together with linear stability theory and three-dimensional simulations, we show that motor-driven active transport along cytoskeletal networks can arrest the coarsening of biomolecular condensates, selecting a finite droplet size tunable from hundreds of nanometers to microns. This mechanism also drives shape transitions from spherical to cylindrical condensates, pointing to a route for engineering programmable active emulsions.
 
-[![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1103/wk2j-3bz9) [![](https://img.shields.io/badge/arXiv-2604.08316-b31b1b.svg)](https://arxiv.org/abs/2604.08316)
+[![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1103/wk2j-3bz9) [![](https://img.shields.io/badge/arXiv-2604.08316-b31b1b.svg)](https://arxiv.org/abs/2604.08316) [![](https://img.shields.io/badge/git-code-blue?logo=github)](https://github.com/leqiao/active-transport-microphase-selection)
 </div>
 </div>
 
@@ -24,14 +24,14 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/sketch_BCPC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Macromolecules 2026</div><img src='images/sketch_BCPC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Particle-Mediated Tuning of Defect Stability in Lamellar Block Copolymer Systems](https://arxiv.org/abs/2608.30981) \\
-**Le Qiao**, Daniel A. Vega, Friederike Schmid. (2026). <i>arXiv</i>:2608.30981.
+[Particle-Mediated Tuning of Defect Stability in Lamellar Block Copolymer Systems](https://doi.org/10.1021/acs.macromol.6c02458) \\
+**Le Qiao**, Daniel A. Vega, Friederike Schmid. (2026). <i>Macromolecules</i>, Articles ASAP.
 - Using a hybrid particle/Ginzburg–Landau model with finite-size scaling, we study how colloidal particles change the formation energy of dislocation defects in lamellar block copolymers. Homogeneous particles increasingly stabilize dislocations as their size grows, while balanced Janus particles instead raise the formation energy, offering design rules for controlling defects in particle-doped films.
 
-[![](https://img.shields.io/badge/arXiv-2608.30981-b31b1b.svg)](https://arxiv.org/abs/2608.30981)
+[![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1021/acs.macromol.6c02458) [![](https://img.shields.io/badge/arXiv-2608.30981-b31b1b.svg)](https://arxiv.org/abs/2608.30981)
 </div>
 </div>
 
@@ -56,16 +56,19 @@
 </div>
 </div>
 
-## Full Publication List
-- **Le Qiao**, Peter Gispert, Lukas S. Stelzl, Friederike Schmid, Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates, *Phys. Rev. Research*, accepted (2026). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1103/wk2j-3bz9) [![](https://img.shields.io/badge/arXiv-2604.08316-b31b1b.svg)](https://arxiv.org/abs/2604.08316)
+## Preprints
+- Emanuele Zippo, **Le Qiao**, Dorothee Dormann, Thomas Speck, Friederike Schmid, Lukas S. Stelzl, Kinase–Phosphatase Cycles Drive Self-Sustained Oscillations of Protein Condensates, *bioRxiv* (2026). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.64898/2026.10.27.762139) [![](https://img.shields.io/badge/git-code-blue?logo=github)](https://github.com/leqiao/tdp43-condensate-oscillations-phase-field)
 
-- **Le Qiao**, Daniel A. Vega, Friederike Schmid, Particle-Mediated Tuning of Defect Stability in Lamellar Block Copolymer Systems, *Preprint*, arXiv:2608.30981 (2026). [![](https://img.shields.io/badge/arXiv-2608.30981-b31b1b.svg)](https://arxiv.org/abs/2608.30981)
+## Peer-Reviewed Publications
+- **Le Qiao**, Peter Gispert, Lukas S. Stelzl, Friederike Schmid, Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates, *Phys. Rev. Research*, **8**, 033345 (2026). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1103/wk2j-3bz9) [![](https://img.shields.io/badge/arXiv-2604.08316-b31b1b.svg)](https://arxiv.org/abs/2604.08316)
+
+- **Le Qiao**, Daniel A. Vega, Friederike Schmid, Particle-Mediated Tuning of Defect Stability in Lamellar Block Copolymer Systems, *Macromolecules*, Articles ASAP (2026). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1021/acs.macromol.6c02458) [![](https://img.shields.io/badge/arXiv-2608.30981-b31b1b.svg)](https://arxiv.org/abs/2608.30981)
 
 - **Le Qiao**, Daniel A. Vega, Friederike Schmid, Stability and Elasticity of Ultrathin Sphere-Patterned Block Copolymer Films, *Macromolecules*, **57** (9), 4629-4634 (2024). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1021/acs.macromol.4c00460) [![](https://img.shields.io/badge/arXiv-2404.18129-b31b1b.svg)](https://arxiv.org/abs/2404.18129)
 
 - **Le Qiao**, Marios Giannakou, Friederike Schmid, An Efficient and Accurate SCF Algorithm for Block Copolymer Films and Brushes Using Adaptive Discretizations, *Polymers*, **16**, 1228 (2024). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://www.mdpi.com/2073-4360/16/9/1228)
 
-- **Le Qiao**, Kai Szuttor, Christian Holm, Gary W. Slater, Ratcheting Charged Polymers Through Symmetric Nanopores Using Pulsed Fields: Designing a Low Pass Filter for Concentrating DNA, *Nano Lett*, **23**, 1343-1349 (2023). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1021/acs.nanolett.2c04588) [![](https://img.shields.io/badge/arXiv-2101.12712-b31b1b.svg)](https://arxiv.org/abs/2101.12712)
+- **Le Qiao**, Kai Szuttor, Christian Holm, Gary W. Slater, Ratcheting Charged Polymers Through Symmetric Nanopores Using Pulsed Fields: Designing a Low Pass Filter for Concentrating Polyelectrolytes, *Nano Lett.*, **23**, 1343-1349 (2023). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1021/acs.nanolett.2c04588) [![](https://img.shields.io/badge/arXiv-2101.12712-b31b1b.svg)](https://arxiv.org/abs/2101.12712)
 
 - **Le Qiao**, Nicholas Ilow, Maxime Ignacio, Gary W. Slater, An Empirical Method to Characterize Displacement Distribution Functions for Anomalous and Transient Diffusion, *Physica A*, **604**, 127676 (2022). [![](https://img.shields.io/badge/-gray?logo=doi&logoColor=white)](https://doi.org/10.1016/j.physa.2022.127676) [![](https://img.shields.io/badge/arXiv-2205.06083-b31b1b.svg)](https://arxiv.org/abs/2205.06083)
 
